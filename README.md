@@ -20,9 +20,6 @@ Visual components and Python
 
 ![image](https://github.com/Jayabharathi3/Open-Jacson-Networks/assets/120367796/55ff79ea-1029-4048-b227-a04fa3727b4f)
 
-![image](https://github.com/Jayabharathi3/Open-Jacson-Networks/assets/120367796/d18f2911-cfc7-4ece-a3e7-8fab92a9c6ac)
-
-
 ## Program
 ```python
 DEVELOPED BY : JAYABHARATHI S
